@@ -1,0 +1,40 @@
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: dodgerblue;
+}
+.line{
+    height: 10px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto
+}
+h1{
+    font-family: fantasy;
+    font-size: 20;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+#game{
+    width: 100%;
+    height: 800px;
+    background-color:aqua;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(.9)
+}
+#chartbot{
+    width: 100%;
+    height: 800px;
+    background-color:lawngreen;
+}
+#art{
+    width: 100%;
+    height: 800px;
+    background-color:chartreuse;
+}
